@@ -36,5 +36,5 @@ Capture your creations with the click of a button. Webcam Palette allows you to 
 
 ## Run Webcam Palette:
 
-*'python webcam_palette.py'
+* `python webcam_palette.py`
 
