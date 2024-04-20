@@ -29,3 +29,12 @@ Capture your creations with the click of a button. Webcam Palette allows you to 
 **Interactive Experience:** Webcam Palette transforms the act of painting into an interactive and immersive experience. Say goodbye to traditional canvases and hello to a new era of digital creativity.
 
 **Endless Possibilities:** With Webcam Palette, the only limit is your imagination. Explore new techniques, experiment with different colors, and let your creativity run wild as you bring your ideas to life in real-time.
+
+
+
+
+
+## Run Webcam Palette:
+
+*'python webcam_palette.py'
+
